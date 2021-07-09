@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LegCamera</string>
+
+    <string name="hot">girl in shorts</string>
+    <string name="not">girl not in shorts</string>
+
+    <string name="take_photo">Take photo</string>
+</resources>
